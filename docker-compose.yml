@@ -1,0 +1,10 @@
+version: '3.9'
+
+services:
+  python:
+    build:
+      context: .
+      dockerfile: ./docker/python/Dockerfile
+    tty: true
+    volumes:
+      - ./imojie/:/imojie
