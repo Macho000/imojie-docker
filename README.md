@@ -2,9 +2,11 @@
 This repo is reproduced on [IMOJIE](https://github.com/dair-iitd/imojie) for Docker Environment
 
 # How to Start
-```git clone https://github.com/dair-iitd/imojie```
-```docker-compose build```
-```docker-compose up -d```
+```
+git clone https://github.com/dair-iitd/imojie
+docker-compose build
+docker-compose up -d
+```
 
 The other steps follows IMOJIE instruction BELOW!
 
