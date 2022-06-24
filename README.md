@@ -116,8 +116,8 @@ This requires downloading the pre-trained models
 
 # Data Example
 ## Train Datals
-A more obvious influence on the early Hercule Poirot stories is that of Arthur Conan Doyle .	<arg1> A more obvious influence on the early Hercule Poirot stories </arg1> <rel>  is </rel> <arg2>  that of Arthur Conan Doyle </arg2>	0.94
-Hercule Poirot also bears a striking resemblance to A. E. W. Mason 's fictional detective -- Inspector Hanaud of the French Sûreté -- who , first appearing in the 1910 novel At the Villa Rose , predates the writing of the first Hercule Poirot novel by six years .	<arg1> Hercule Poirot </arg1> <rel>  bears </rel> <arg2>  a striking resemblance to A. E. W. Mason 's fictional detective </arg2>	0.95
+A more obvious influence on the early Hercule Poirot stories is that of Arthur Conan Doyle .	&lt;arg1> A more obvious influence on the early Hercule Poirot stories &lt;/arg1> &lt;rel>  is &lt;/rel> &lt;arg2>  that of Arthur Conan Doyle </arg2>	0.94
+Hercule Poirot also bears a striking resemblance to A. E. W. Mason 's fictional detective -- Inspector Hanaud of the French Sûreté -- who , first appearing in the 1910 novel At the Villa Rose , predates the writing of the first Hercule Poirot novel by six years .	&lt;arg1> Hercule Poirot &lt;/arg1> &lt;rel>  bears &lt;/rel> &lt;arg2>  a striking resemblance to A. E. W. Mason 's fictional detective &lt;/arg2>	0.95
 
 
 
