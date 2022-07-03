@@ -3,6 +3,7 @@ This repo is reproduced on [IMOJIE](https://github.com/dair-iitd/imojie) for Doc
 
 # How to Start
 ```
+git clone https://github.com/Macho000/imojie-docker
 git clone https://github.com/dair-iitd/imojie
 docker-compose build
 docker-compose up -d
