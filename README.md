@@ -9,7 +9,7 @@ docker-compose build
 docker-compose up -d
 ```
 
-The other steps follows IMOJIE instruction BELOW!
+The other steps follow IMOJIE instruction BELOW!
 
 # IMoJIE
 
