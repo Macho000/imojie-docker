@@ -1,5 +1,5 @@
 # About This Repo
-This repo is reproduced on [IMOJIE](https://github.com/dair-iitd/imojie) for Docker Environment
+This repo is reproduced for [IMOJIE](https://github.com/dair-iitd/imojie) on Docker Environment
 
 # How to Start
 ```
